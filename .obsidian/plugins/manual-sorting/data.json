@@ -2,7 +2,27 @@
   "customOrder": {
     "/": {
       "children": [
+        "Likely Can Affect",
         "Likely Can't Affect"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can Affect": {
+      "children": [
+        "Likely Can Affect/Obsidian Files"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can Affect/Obsidian Files": {
+      "children": [
+        "Likely Can Affect/Obsidian Files/Pasted image 20251219100150.png",
+        "Likely Can Affect/Obsidian Files/Pasted image 20251222055724.png",
+        "Likely Can Affect/Obsidian Files/Pasted image 20251222055901.png",
+        "Likely Can Affect/Obsidian Files/Pasted image 20251222060028.png",
+        "Likely Can Affect/Obsidian Files/Pasted image 20251222060442.png",
+        "Likely Can Affect/Obsidian Files/Pasted image 20251222061600.png",
+        "Likely Can Affect/Obsidian Files/Pasted image 20260118112358.png",
+        "Likely Can Affect/Obsidian Files/World Population Density.png"
       ],
       "sortOrder": "custom"
     },

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0610400238aeee3b",
+        "id": "b70b35ff3cb3ae55",
         "type": "tabs",
         "children": [
           {
-            "id": "dc53e27854488d30",
+            "id": "9446025cb47cb594",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -80,27 +80,38 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "dc53e27854488d30",
+  "active": "9446025cb47cb594",
   "lastOpenFiles": [
+    "Likely Can Affect/Obsidian Files/Pasted image 20260118112358.png",
+    "Likely Can Affect/Obsidian Files/Pasted image 20251222055724.png",
+    "Likely Can Affect/Obsidian Files/Pasted image 20251222055901.png",
+    "Likely Can Affect/Obsidian Files/Pasted image 20251222060028.png",
+    "Likely Can Affect/Obsidian Files/Pasted image 20251222060442.png",
+    "Likely Can Affect/Obsidian Files/Pasted image 20251222061600.png",
+    "Likely Can Affect/Obsidian Files/World Population Density.png",
+    "Likely Can Affect/Obsidian Files/Pasted image 20251219100150.png",
+    "Likely Can Affect/Obsidian Files",
+    "Likely Can Affect",
+    "untitled folder",
     "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/AI Files/exportignore.sb-9b8b3354-12WeRi",
     "Likely Can Affect/Future/My Experience/Actions/Dashboard.md",
     "Likely Can Affect/Future/My Experience/Actions/Personal/Admin/Sell List.md",
@@ -133,22 +144,11 @@
     "Likely Can Affect/Present/Inanimate Objects/Reference Info/Work/Lining Up a Job/Gobel Flakes",
     "Likely Can Affect/Present/Inanimate Objects/Reference Info/Work/Lining Up a Job/Old",
     "Likely Can't Affect/Past/Work/Lining Up a Job",
-    "Likely Can Affect/Future/Inanimate Objects/Reference Info/Work/Prompts",
-    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/AI Files/exportignore.sb-59db24d9-JZjWs3",
-    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/AI Files/exportignore",
-    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/AI Files/exportignore.sb-59db24d9-lVnMwI",
     "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/World Population Density.png",
     "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/Pasted image 20260118112358.png",
     "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/Pasted image 20251222061600.png",
-    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/Pasted image 20251222060442.png",
-    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/Pasted image 20251222060028.png",
-    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/Pasted image 20251222055901.png",
-    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/Pasted image 20251222055724.png",
-    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/Pasted image 20251219100150.png",
     "vault_structure.canvas",
     "Likely Can Affect/vault_structure.canvas",
-    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/Obsidian Files/World Population Density.png",
-    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/Obsidian Files/Pasted image 20251222060028.png",
     "Likely Can Affect/Old/Present Old/Other/Obsidian Vault in Context.canvas",
     "My Life/Future/Actions/Work/Untitled.canvas",
     "Best Possible Life/Best Possible Actions/Values/Emotional/Untitled.canvas",
