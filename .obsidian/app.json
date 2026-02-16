@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files",
+  "propertiesInDocument": "hidden",
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 60
+  },
+  "showIndentGuide": false,
+  "showInlineTitle": true
+}

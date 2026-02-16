@@ -1,0 +1,14 @@
+/* Add consistent space below headings in Live Preview (editing mode) */
+.markdown-source-view.mod-cm6 .HyperMD-header {
+  padding-bottom: 0.5em !important; /* Adjust this value (e.g., 0.3em for less space, 0.7em for more) */
+}
+
+/* Set consistent space below headings in Reading view */
+.markdown-preview-view h1, 
+.markdown-preview-view h2, 
+.markdown-preview-view h3, 
+.markdown-preview-view h4, 
+.markdown-preview-view h5, 
+.markdown-preview-view h6 {
+  margin-bottom: 0.5em !important; /* Match this to the value above for consistency */
+}

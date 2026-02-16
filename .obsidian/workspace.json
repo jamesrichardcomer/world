@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0610400238aeee3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc53e27854488d30",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b2551b1446ba2ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "73ec14995af982be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75229f30acf28dc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a1ab79a6098b5376",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "308f72f1ab1dc4d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5e8fdfe69320895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca771bc397517dde",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": true,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dc53e27854488d30",
+  "lastOpenFiles": [
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/AI Files/exportignore.sb-9b8b3354-12WeRi",
+    "Likely Can Affect/Future/My Experience/Actions/Dashboard.md",
+    "Likely Can Affect/Future/My Experience/Actions/Personal/Admin/Sell List.md",
+    "Likely Can Affect/Future/My Experience/Actions/Personal/Far in the Future/Wedding.md",
+    "Likely Can Affect/Future/My Experience/Actions/Personal/Admin/Buy List.md",
+    "Likely Can Affect/Future/My Experience/Actions/Work/Lining Up a Job/Lining Up a Job.md",
+    "Likely Can Affect/Future/My Experience/Actions/Work/Bar Certification/Bar Certification.md",
+    "Likely Can Affect/Future/My Experience/Actions/Personal/Far in the Future/Commencement.md",
+    "Likely Can Affect/Future/My Experience/Actions/Work/Law School/Water Law.md",
+    "Likely Can Affect/Future/My Experience/Actions/Work/Law School/Construction Law.md",
+    "Likely Can't Affect/Past/Personal/People/Macy/Health/Macy Health Log.md",
+    "Likely Can Affect/Future/My Experience/Actions/Work/Law School/Free Speech.md",
+    "Likely Can Affect/Future/My Experience/Actions/Work/Law School/Elder Law.md",
+    "Likely Can Affect/Future/My Experience/Actions/Work/Law School/National Security Law.md",
+    "Likely Can Affect/Future/My Experience/Actions/Personal/People/Macy.md",
+    "Likely Can't Affect/Past/Personal/People/Macy/Relationships/With Me/Jan 28.md",
+    "Likely Can't Affect/Past/Personal/People/Macy/Relationships/With Me/Jan 29.md",
+    "Likely Can't Affect/Past/Personal/People/Macy/Relationships/With Me/Feb 1.md",
+    "Likely Can't Affect/Past/Personal/People/Macy/Relationships/With Me/Feb 2.md",
+    "Likely Can't Affect/Past/Personal/People/Macy/Relationships/With Me/Feb 8.md",
+    "Likely Can't Affect/Past/Personal/People/Carter/Feb 7.md",
+    "Likely Can't Affect/Past/Personal/People/Me/Health Log.md",
+    "Likely Can Affect/Future/My Experience/Actions/Personal/Admin/Health.md",
+    "Likely Can Affect/Future/My Experience/Actions/Personal/People/Other.md",
+    "Likely Can Affect/Future/My Experience/Actions/Personal/People/Macy's Family.md",
+    "Likely Can Affect/Future/My Experience/Actions/Personal/People/James Jr.md",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/AI Files/Export Files.command alias",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/AI Files/exportignore.sb-9b8b3354-jLZr7a",
+    "Likely Can Affect/Future/Inanimate Objects/Reference Info/Personal/Financial",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Work/Lining Up a Job/Gobel Flakes",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Work/Lining Up a Job/Old",
+    "Likely Can't Affect/Past/Work/Lining Up a Job",
+    "Likely Can Affect/Future/Inanimate Objects/Reference Info/Work/Prompts",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/AI Files/exportignore.sb-59db24d9-JZjWs3",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/AI Files/exportignore",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/AI Files/exportignore.sb-59db24d9-lVnMwI",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/World Population Density.png",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/Pasted image 20260118112358.png",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/Pasted image 20251222061600.png",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/Pasted image 20251222060442.png",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/Pasted image 20251222060028.png",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/Pasted image 20251222055901.png",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/Pasted image 20251222055724.png",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/System/Obsidian Files/Pasted image 20251219100150.png",
+    "vault_structure.canvas",
+    "Likely Can Affect/vault_structure.canvas",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/Obsidian Files/World Population Density.png",
+    "Likely Can Affect/Present/Inanimate Objects/Reference Info/Personal/Obsidian Files/Pasted image 20251222060028.png",
+    "Likely Can Affect/Old/Present Old/Other/Obsidian Vault in Context.canvas",
+    "My Life/Future/Actions/Work/Untitled.canvas",
+    "Best Possible Life/Best Possible Actions/Values/Emotional/Untitled.canvas",
+    "My Life/Present/Rules Regarding Reality/Future/My Life/Untitled.canvas",
+    "Future/Goals/General/Untitled.canvas",
+    "Future/Untitled.canvas",
+    "Everything Else/Present/Environment/Untitled.canvas",
+    "Personal/Reference/General Knowledge/Past/General History/Untitled.canvas"
+  ]
+}

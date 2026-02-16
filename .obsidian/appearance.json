@@ -1,0 +1,15 @@
+{
+  "accentColor": "#0000ff",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "special_fonts",
+    "clean-tables",
+    "custom-headings",
+    "heading-spacing"
+  ],
+  "cssTheme": "",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "translucency": true,
+  "nativeMenus": true
+}

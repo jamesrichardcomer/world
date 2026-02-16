@@ -1,0 +1,26 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":yellow_square:",
+    ":arrow_up_small:",
+    ":arrow_down_small:",
+    ":dart:",
+    ":arrow_double_up:",
+    ":white_check_mark:",
+    ":hourglass_flowing_sand:",
+    ":star:",
+    ":small_red_triangle:",
+    ":red_square:",
+    ":yellow_circle:",
+    ":date:",
+    ":calendar:",
+    ":arrow_double_down:",
+    ":bullettrain_front:",
+    ":belarus:",
+    ":rainbow_flag:",
+    ":asterisk:"
+  ]
+}

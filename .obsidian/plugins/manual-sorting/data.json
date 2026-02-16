@@ -1,0 +1,241 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Likely Can't Affect"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect": {
+      "children": [
+        "Likely Can't Affect/Past",
+        "Likely Can't Affect/Present",
+        "Likely Can't Affect/Future"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Future": {
+      "children": [
+        "Likely Can't Affect/Future/Environment",
+        "Likely Can't Affect/Future/Ideas",
+        "Likely Can't Affect/Future/People",
+        "Likely Can't Affect/Future/Technology"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Future/Environment": {
+      "children": [
+        "Likely Can't Affect/Future/Environment/Global Warming.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Future/Ideas": {
+      "children": [
+        "Likely Can't Affect/Future/Ideas/JQ.md",
+        "Likely Can't Affect/Future/Ideas/White Nationalism.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Future/People": {
+      "children": [
+        "Likely Can't Affect/Future/People/Birth Rates.md",
+        "Likely Can't Affect/Future/People/Mass Migration.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Future/Technology": {
+      "children": [
+        "Likely Can't Affect/Future/Technology/AI.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Past": {
+      "children": [
+        "Likely Can't Affect/Past/Environment",
+        "Likely Can't Affect/Past/Events",
+        "Likely Can't Affect/Past/Ideas",
+        "Likely Can't Affect/Past/People",
+        "Likely Can't Affect/Past/Technology"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Past/Environment": {
+      "children": [
+        "Likely Can't Affect/Past/Environment/History of Earth.md",
+        "Likely Can't Affect/Past/Environment/History of Life.md",
+        "Likely Can't Affect/Past/Environment/History of the Climate.md",
+        "Likely Can't Affect/Past/Environment/History of the Universe.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Past/Events": {
+      "children": [
+        "Likely Can't Affect/Past/Events/Historical Moments.md",
+        "Likely Can't Affect/Past/Events/Historical Periods.md",
+        "Likely Can't Affect/Past/Events/History of Exploration.md",
+        "Likely Can't Affect/Past/Events/History of Natural Disasters.md",
+        "Likely Can't Affect/Past/Events/History of Revolutions.md",
+        "Likely Can't Affect/Past/Events/History of War.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Past/Ideas": {
+      "children": [
+        "Likely Can't Affect/Past/Ideas/Books",
+        "Likely Can't Affect/Past/Ideas/Pop Culture",
+        "Likely Can't Affect/Past/Ideas/History of Architecture.md",
+        "Likely Can't Affect/Past/Ideas/History of Economic Theory.md",
+        "Likely Can't Affect/Past/Ideas/History of Education.md",
+        "Likely Can't Affect/Past/Ideas/History of Evolution.md",
+        "Likely Can't Affect/Past/Ideas/History of Law.md",
+        "Likely Can't Affect/Past/Ideas/History of Mathematics.md",
+        "Likely Can't Affect/Past/Ideas/History of Philosophy.md",
+        "Likely Can't Affect/Past/Ideas/History of Political Theory.md",
+        "Likely Can't Affect/Past/Ideas/History of Religion.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Past/Ideas/Books": {
+      "children": [
+        "Likely Can't Affect/Past/Ideas/Books/Anthropology.md",
+        "Likely Can't Affect/Past/Ideas/Books/Economics.md",
+        "Likely Can't Affect/Past/Ideas/Books/Filled Out.md",
+        "Likely Can't Affect/Past/Ideas/Books/History.md",
+        "Likely Can't Affect/Past/Ideas/Books/Law.md",
+        "Likely Can't Affect/Past/Ideas/Books/Literature.md",
+        "Likely Can't Affect/Past/Ideas/Books/Philosophy.md",
+        "Likely Can't Affect/Past/Ideas/Books/Politics.md",
+        "Likely Can't Affect/Past/Ideas/Books/Psychology.md",
+        "Likely Can't Affect/Past/Ideas/Books/Science.md",
+        "Likely Can't Affect/Past/Ideas/Books/Sociology.md",
+        "Likely Can't Affect/Past/Ideas/Books/The Great Books of the Western World.md",
+        "Likely Can't Affect/Past/Ideas/Books/Theology.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Past/Ideas/Pop Culture": {
+      "children": [
+        "Likely Can't Affect/Past/Ideas/Pop Culture/History of Fashion.md",
+        "Likely Can't Affect/Past/Ideas/Pop Culture/History of Music.md",
+        "Likely Can't Affect/Past/Ideas/Pop Culture/History of Popular Books.md",
+        "Likely Can't Affect/Past/Ideas/Pop Culture/History of Popular Movies.md",
+        "Likely Can't Affect/Past/Ideas/Pop Culture/History of Sports.md",
+        "Likely Can't Affect/Past/Ideas/Pop Culture/History of Television.md",
+        "Likely Can't Affect/Past/Ideas/Pop Culture/History of Video Games.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Past/People": {
+      "children": [
+        "Likely Can't Affect/Past/People/Business Leaders.md",
+        "Likely Can't Affect/Past/People/How People Lived.md",
+        "Likely Can't Affect/Past/People/Philosophers.md",
+        "Likely Can't Affect/Past/People/Political Leaders.md",
+        "Likely Can't Affect/Past/People/Populations.md",
+        "Likely Can't Affect/Past/People/Religious Leaders.md",
+        "Likely Can't Affect/Past/People/Scientists.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Past/Technology": {
+      "children": [
+        "Likely Can't Affect/Past/Technology/History of Agriculture.md",
+        "Likely Can't Affect/Past/Technology/History of Computing.md",
+        "Likely Can't Affect/Past/Technology/History of Energy.md",
+        "Likely Can't Affect/Past/Technology/History of Medicine.md",
+        "Likely Can't Affect/Past/Technology/History of Physics.md",
+        "Likely Can't Affect/Past/Technology/History of Technology.md",
+        "Likely Can't Affect/Past/Technology/History of Transportation.md",
+        "Likely Can't Affect/Past/Technology/History of Weapons.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Present": {
+      "children": [
+        "Likely Can't Affect/Present/Environment",
+        "Likely Can't Affect/Present/Events",
+        "Likely Can't Affect/Present/Ideas",
+        "Likely Can't Affect/Present/People",
+        "Likely Can't Affect/Present/Technology"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Present/Environment": {
+      "children": [
+        "Likely Can't Affect/Present/Environment/Florida",
+        "Likely Can't Affect/Present/Environment/Texas",
+        "Likely Can't Affect/Present/Environment/United States"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Present/Environment/Florida": {
+      "children": [
+        "Likely Can't Affect/Present/Environment/Florida/Major Orlando Towns & Suburbs.md",
+        "Likely Can't Affect/Present/Environment/Florida/Orlando Climate.md",
+        "Likely Can't Affect/Present/Environment/Florida/Orlando Topography.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Present/Environment/Texas": {
+      "children": [
+        "Likely Can't Affect/Present/Environment/Texas/Austin Roads.md",
+        "Likely Can't Affect/Present/Environment/Texas/Georgetown Roads.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Present/Environment/United States": {
+      "children": [
+        "Likely Can't Affect/Present/Environment/United States/Topography.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Present/Events": {
+      "children": [
+        "Likely Can't Affect/Present/Events/Current Conflicts & Crises.md",
+        "Likely Can't Affect/Present/Events/Current International Relations.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Present/Ideas": {
+      "children": [
+        "Likely Can't Affect/Present/Ideas/Quotes",
+        "Likely Can't Affect/Present/Ideas/Economics.md",
+        "Likely Can't Affect/Present/Ideas/Far Right.md",
+        "Likely Can't Affect/Present/Ideas/Law.md",
+        "Likely Can't Affect/Present/Ideas/Mainstream Conservatism.md",
+        "Likely Can't Affect/Present/Ideas/Psychology & Human Nature.md",
+        "Likely Can't Affect/Present/Ideas/Religion.md",
+        "Likely Can't Affect/Present/Ideas/Science.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Present/Ideas/Quotes": {
+      "children": [
+        "Likely Can't Affect/Present/Ideas/Quotes/Elon Musk.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Present/People": {
+      "children": [
+        "Likely Can't Affect/Present/People/Childhood Development.md",
+        "Likely Can't Affect/Present/People/Florida Top Law Schools.md",
+        "Likely Can't Affect/Present/People/Government Spending.md",
+        "Likely Can't Affect/Present/People/Most Common Jobs.md",
+        "Likely Can't Affect/Present/People/US Demographics.md",
+        "Likely Can't Affect/Present/People/Wealth & Income Inequality.md",
+        "Likely Can't Affect/Present/People/World Demographics.md",
+        "Likely Can't Affect/Present/People/World Leaders.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Likely Can't Affect/Present/Technology": {
+      "children": [
+        "Likely Can't Affect/Present/Technology/Frontiers of Physics.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
