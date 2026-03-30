@@ -15,3 +15,6 @@
 
 # 5. Un-ignore the .gitignore file itself (so you can edit it later)
 !.gitignore
+
+# Keep local git metadata out of sync and out of commits
+.git.nosync
