@@ -18,3 +18,4 @@
 
 # Keep local git metadata out of sync and out of commits
 .git.nosync
+.git *
